@@ -23,5 +23,6 @@ python UI.py
 默认文件名是 password.txt
 + 日志
 生成密码的日志会显示在文本框中，以防你觉得它死了!
+
 ![哈哈哈](https://github.com/user-attachments/assets/38b7c514-7eb0-4a92-87d0-83cb84acfc07)
 
