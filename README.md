@@ -15,6 +15,7 @@ python UI.py
 ```
 pyinstaller --windowed --onefile --icon=替换为你的图片路径 UI.py
 ```
++ 或者在右边下载 release 版本，可以下载即用
 
 ## 其他
 + 密码位数模式  
