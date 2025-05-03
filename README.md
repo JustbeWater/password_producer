@@ -10,7 +10,7 @@
 ```
 python UI.py
 ```
-+ 或者创建 exe 文件，更加便于移植
++ 或者创建 exe 文件，更加便于移植  
 在 UI.py 文件夹下使用如下命令以创建 .exe 文件
 ```
 pyinstaller --windowed --onefile --icon=替换为你的图片路径 UI.py
