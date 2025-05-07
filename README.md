@@ -8,12 +8,12 @@
 ## 使用方法
 + 终端运行 UI.py 即可
 ```
-python UI.py
+python passbook_producer.py
 ```
 + 或者创建 exe 文件，更加便于移植  
 在 UI.py 文件夹下使用如下命令以创建 .exe 文件
 ```
-pyinstaller --windowed --onefile --icon=替换为你的图片路径 UI.py
+pyinstaller --windowed --onefile --icon=替换为你的图片路径 passbook_producer.py
 ```  
 创建完成后，生成的其他文件都可以删除了，不影响使用。  
 + 或者在右边下载 release 版本，可以下载即用
